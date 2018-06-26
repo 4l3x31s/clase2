@@ -1,0 +1,14 @@
+{
+  "name": "clase2",
+  "version": "0.0.1",
+  "description": "Clase de Express con node y jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexeis Carrillo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
